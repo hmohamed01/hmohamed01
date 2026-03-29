@@ -17,3 +17,7 @@ Currently focused on data analytics, AI/ML applications, and cloud infrastructur
 - **Automation:** PowerShell, scripting, process automation
 - **Infrastructure:** Active Directory, Windows Server, cloud platforms
 - **Tools:** Git, VS Code, Claude Code
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=hmohamed01&color=blue&style=flat-square)
