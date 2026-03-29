@@ -18,6 +18,10 @@ Currently focused on data analytics, AI/ML applications, and cloud infrastructur
 - **Infrastructure:** Active Directory, Windows Server, cloud platforms
 - **Tools:** Git, VS Code, Claude Code, Cursor, SQL Server Data Tools
 
+
+### Skills Profile
+
+https://app.pluralsight.com/profile/hmohamed12
 ---
 
 <img src="https://komarev.com/ghpvc/?username=hmohamed01&color=blue&style=flat-square" height="0" width="0" />
