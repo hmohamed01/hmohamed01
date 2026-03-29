@@ -20,4 +20,4 @@ Currently focused on data analytics, AI/ML applications, and cloud infrastructur
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hmohamed01&color=blue&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=hmohamed01&color=blue&style=flat-square" height="0" width="0" />
