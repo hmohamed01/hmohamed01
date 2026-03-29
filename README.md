@@ -21,7 +21,7 @@ Currently focused on data analytics, AI/ML applications, and cloud infrastructur
 
 ### Skills Profile
 
-https://app.pluralsight.com/profile/hmohamed12
+- https://app.pluralsight.com/profile/hmohamed12
 ---
 
 <img src="https://komarev.com/ghpvc/?username=hmohamed01&color=blue&style=flat-square" height="0" width="0" />
