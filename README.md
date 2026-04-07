@@ -8,7 +8,7 @@ Systems Engineer | Data Analyst | Endpoint Management Expert
 
 20+ years of experience in enterprise IT, specializing in endpoint management, SQL-driven data analysis, and infrastructure automation. I've managed environments serving 30,000+ clients globally and built custom reporting solutions that turn operational data into decisions.
 
-Currently focused on data analytics, AI/ML applications, and cloud infrastructure.
+Currently focused on data analytics, AI/ML applications, endpoint managememt, and cloud infrastructure.
 
 ### Technical Skills
 
