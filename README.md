@@ -13,9 +13,9 @@ Currently focused on data analytics, AI/ML applications, endpoint managememt, an
 ### Technical Skills
 
 - **Data & Reporting:** SQL Server, T-SQL, SSRS, data modeling
-- **Endpoint Management:** MECM/SCCM, OS deployment, patch management
+- **Endpoint Management:** MECM/SCCM, OS deployment, patch management, Intune co-management
 - **Automation:** PowerShell, scripting, process automation
-- **Infrastructure:** Active Directory, Windows Server, cloud platforms
+- **Infrastructure:** Active Directory, Group Policy, DNS, DHCP, Windows Server, cloud platforms
 - **Tools:** Git, VS Code, Claude Code, Cursor, SQL Server Data Tools
 
 
